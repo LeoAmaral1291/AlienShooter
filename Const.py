@@ -1,6 +1,15 @@
 # C
 COLOR_ORANGE = (255, 128, 0)
 COLOR_BLUE = (0, 0, 255)
+COLOR_YELLOW = (255, 255, 0)
+
+# E
+ENTITY_SPEED = {
+    'Level1L0': 0,
+    'Level1L1': 1,
+    'Level1L2': 2,
+    'Level1L3': 2.3,
+}
 
 # M
 MENU_OPTION = ('NEW GAME 1P',
