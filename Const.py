@@ -7,8 +7,10 @@ COLOR_YELLOW = (255, 255, 0)
 ENTITY_SPEED = {
     'Level1L0': 0,
     'Level1L1': 1,
-    'Level1L2': 2,
-    'Level1L3': 2.3,
+    'Level1L2': 1,
+    'Level1L3': 2,
+    'Level1L4': 2.3,
+
 }
 
 # M

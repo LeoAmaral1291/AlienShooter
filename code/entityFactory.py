@@ -11,7 +11,7 @@ class EntityFactory:
         match entity_name:
             case 'Level1L':
                 list_l = []
-                for i in range(4):
+                for i in range(5):
                     list_l.append(Background(f'Level1L{i}', (0, 0)))
                     list_l.append(Background(f'Level1L{i}', (WIN_WIDTH, 0)))
                 return list_l
