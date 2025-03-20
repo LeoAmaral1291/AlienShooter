@@ -20,6 +20,18 @@ ENTITY_SPEED = {
 
 }
 
+ENTITY_HEALTH = {
+    'Level1L0': 999,
+    'Level1L1': 999,
+    'Level1L2': 999,
+    'Level1L3': 999,
+    'Level1L4': 999,
+    'Player1': 150,
+    'Player2': 150,
+    'Enemy1': 40,
+    'Enemy2': 60,
+}
+
 # M
 MENU_OPTION = ('NEW GAME 1P',
                'NEW GAME 2P - COOPERATIVE',
@@ -40,7 +52,7 @@ PLAYER_KEY_SHOOT = {'Player1': pygame.K_RCTRL,
                     'Player2': pygame.K_LCTRL}
 
 # S
-SPAWN_TIME = 4000
+SPAWN_TIME = 2500
 
 # W
 WIN_WIDTH = 576
